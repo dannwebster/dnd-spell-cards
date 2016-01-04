@@ -1,0 +1,197 @@
+<html xmlns:py="http://genshi.edgewall.org/">
+<head>
+    <title>${character.character_name}'s Grimoire</title>
+    <style>
+        .card{
+        width: 56mm;
+        height: 81mm;
+        border: 5px solid ${character.border_color};
+        box-shadow: 1px 1px 3px #888;
+        min-height: 250px;
+        padding-: 10px;
+        margin: 10px;
+        position: relative
+        }
+
+        table {
+        width: 100%;
+        border: 1px solid black;
+        text-align: left;
+        border-collapse: collapse;
+        font-size: 10px;
+        }
+
+        td, th {
+        border: 1px solid black;
+        }
+
+        .notes {
+            background-color: ${character.notes_color};
+        }
+        .materials {
+            background-color: ${character.materials_color};
+        }
+        .desc {
+            margin-top: 3px;
+        }
+        th {
+        padding: 1px;
+        font-weight: lighter;
+        background-color: ${character.header_color};
+        color: white;
+        }
+        .content img{
+            float: left;
+            border-radius: 20%;
+            width: 60px;
+            margin: 5px;
+            margin-top: 0px;
+        }
+        .title{
+        padding: 5px;
+        font-weight: bold;
+        background-color: ${character.title_color};
+        color: white;
+        }
+
+        .title img{
+            float: right;
+            vertical-align: middle;
+            display: inline;
+        }
+
+        .level_icon {
+            height: 25px;
+        }
+        .school_icon {
+            height: 25px;
+        }
+        .byline {
+        font-weight: lighter;
+        font-style: italic;
+        background-color: black;
+        color: white;
+        font-size: 8px;
+        }
+
+
+        h1{
+        font-size: 16px;
+        margin-left: 100px;
+        margin-top: -70px;
+        }
+        p{
+        margin: 10px;
+        font-family: segoe ui;
+        font-size: 10px;
+        }
+        .content p {
+            font-size: 9px;
+        }
+        .name {
+            font-size: larger;
+            font-weight: bold;
+            text-align: left;
+        }
+        .school_level {
+            font-weight: lighter;
+            font-size: smaller;
+            font-style: italic;
+            text-align: left;
+        }
+        .ref{
+            margin-right: 3px;
+            float:right;
+        }
+        #mainbox{
+        font-family: calibri;
+        justify-content: center;
+        flex-wrap: wrap;
+        }
+        .stat_block {
+            width: 101%;
+            margin: 0px;
+            position: absolute;
+            bottom: 0px;
+        }
+        @media all {
+            .page-break	{ display: none; }
+        }
+
+        @media print {
+            .page-break	{ display: block; page-break-before: always; }
+        }
+
+    </style>
+    <meta charset="UTF-8" />
+</head>
+<body>
+<table id="mainbox">
+    <tbody>
+    <tr py:for="row in util.group(character.by_name.values(), 4, 2)">
+        <td py:for="spell_def in row">
+        <py:if test="spell_def is not None">
+        <div class="card">
+            <div class="title">
+                <img class="level_icon" src="./images/${spell_def.level_icon()}" alt="${spell_def.level}" />
+                <img class="school_icon" src="./images/${spell_def.school_icon()}" alt="${spell_def.school}" />
+                <div class="name">${spell_def.name}</div>
+                <div class="school_level">${"Preferred " if spell_def.is_preferred else ""}${spell_def.type_desc()}</div>
+            </div>
+            <div class="content">
+                <img src="./images/${character.image_name}" alt="${character.character_name}"/>
+                <p class="desc"><span class="data">${spell_def.description}</span></p>
+            </div>
+            <div class="stat_block">
+              <table>
+                  <tbody>
+                    <py:if test="spell_def.notes">
+                    <tr>
+                        <th class="notes" colspan="4"><strong>Notes: </strong>${spell_def.notes}</th>
+                    </tr>
+                    </py:if>
+                    <py:if test="spell_def.materials">
+                    <tr>
+                        <th class="materials" colspan="4"><strong>Materials: </strong>${spell_def.materials}</th>
+                    </tr>
+                    </py:if>
+                    <tr>
+                        <th>Casting&nbsp;Time</th>
+                        <th>Range</th>
+                        <th>Comp.</th>
+                        <th>Duration</th>
+                    </tr>
+                    <tr>
+                        <td>${spell_def.casting_time}${" (R)" if spell_def.ritual else ""}</td>
+                        <td>${spell_def.range}</td>
+                        <td>${spell_def.components}</td>
+                        <td>${spell_def.duration}</td>
+                    </tr>
+                    <tr>
+                        <th>Class&nbsp;(Ability)</th>
+                        <th>Atk.&nbsp;Bonus</th>
+                        <th>Damage</th>
+                        <th>Save</th>
+                    </tr>
+                    <tr>
+                        <td>${spell_def.spell_class} (${spell_def.spell_ability})</td>
+                        <td>${spell_def.attack_bonus_desc()}</td>
+                        <td>${spell_def.damage_desc()}</td>
+                        <td>${spell_def.save_desc()}</td>
+                    </tr>
+
+                  </tbody>
+                </table>
+                <div class="byline">
+                    <span class="owner">${character.character_name}'s Grimoire</span>
+                    <span class="ref">Ref: ${spell_def.ref}</span>
+                </div>
+            </div>
+        </div>
+        </py:if>
+        </td>
+    </tr>
+    </tbody>
+</table>
+</body>
+</html>

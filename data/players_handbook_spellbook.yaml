@@ -1,0 +1,91 @@
+Druidcraft:
+  level: 0
+  school: Transmutation
+  casting_time: 1 action
+  range: 30 feet
+  components: V, S
+  duration: Instantaneous
+  ref: PHB
+  description: >
+    1) tiny, harmless sensory effect that
+    predicts what the weather will be at your
+    location for the next 24 hours.
+    2) You instantly make a flower blossom, a seed pod open, or a leaf
+    bud bloom.
+    3) You create an instantaneous,
+    harmless sensory effect, such as falling leaves, a
+    puff of wind, the sound of a small animal, or the
+    faint odor of skunk. The effect must fit in a 5-foot
+    cube.
+    4) You instantly light or snuff out a candle, a
+    torch, or a small campfire.
+Shillelagh:
+  level: 0
+  school: Transmutation
+  casting_time: 1 bonus action
+  range: Touch
+  components: V, S, M
+  materials: mistletoe or shamrock leaf and club or quarterstaff
+  duration: 1 min.
+  damage: 1d8
+  damage_type: B
+  ref: PHB 275
+  description: >
+    For the duration, can use spellcasting ability
+    instead of STR for the attack and damage
+    rolls of melee attacks using a club or quarterstaff.
+    Weapon's damage die becomes a d8. Weapon
+    also becomes magical. Spell
+    ends if you cast it again or if you let go of the
+    weapon.
+Guidance:
+  level: 0
+  school: Divination
+  casting_time: 1 action
+  range: Touch
+  components: V, S
+  duration: Concentration, 1 min.
+  ref: PHB 275
+  description: >
+    You touch one willing creature. Once before the
+    spell ends, the target can roll a d4 and add the
+    number rolled to one ability check of its choice.
+    It can roll the die before or after making the
+    ability check. The spell then ends.
+Resistance:
+  level: 0
+  school: Abjuration
+  casting_time: 1 action
+  range: Touch
+  components: V, S, M
+  materials: a miniature cloak
+  duration: Concentration, 1 min.
+  ref: PHB 275
+  description: >
+    You touch one willing creature. Once before the
+    spell ends, the target can roll a d4 and add the
+    number rolled to one saving throw of its choice.
+    It can roll the die before or after the saving
+    throw. The spell then ends.
+Thunderwave:
+  level: 1
+  school: Evocation
+  casting_time: 1 action
+  range: Self
+  components: S
+  duration: Instantaneous
+  save: CON
+  damage: 1d6
+  damage_type: T
+  ref: PHB 275
+  description: >
+Name:
+  level: 1
+  school: Evocation
+  casting_time: 1 action
+  range: Touch
+  components: V, S, M
+  materials: a miniature cloak
+  duration: Concentration, 1 min.
+  ref: PHB 275
+  description: >

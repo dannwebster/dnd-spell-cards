@@ -1,0 +1,5482 @@
+Acid Splash:
+  level: 0
+  ritual: false
+  school: Conjuration
+  casting_time: 1 action
+  range: 60 ft
+  components: V, S
+  materials: ''
+  duration: Inst.
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Aid:
+  level: 2
+  ritual: false
+  school: Abjuration
+  casting_time: 1 action
+  range: 30 ft
+  components: V, S, M
+  materials: a tiny strip of white cloth
+  duration: 8 hrs
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Alarm:
+  level: 1
+  ritual: true
+  school: Abjuration
+  casting_time: 1 minute
+  range: 30 ft
+  components: V, S, M
+  materials: a tiny bell and a piece of fine silver wire
+  duration: 8 hrs
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Alter Self:
+  level: 2
+  ritual: false
+  school: Transmutation
+  casting_time: 1 action
+  range: Self
+  components: V, S
+  materials: ''
+  duration: 'C: 1 hr max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Animal Friendship:
+  level: 1
+  ritual: false
+  school: Enchantment
+  casting_time: 1 action
+  range: 30 ft
+  components: V, S, M
+  materials: a morsel of food
+  duration: 24 hrs
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Animal Messenger:
+  level: 2
+  ritual: true
+  school: Enchantment
+  casting_time: 1 action
+  range: 30 ft
+  components: V, S, M
+  materials: a morsel of food
+  duration: 24 hrs
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Animal Shapes:
+  level: 8
+  ritual: false
+  school: Transmutation
+  casting_time: 1 action
+  range: 30 ft
+  components: V, S
+  materials: ''
+  duration: 'C: 24 hr max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Animate Dead:
+  level: 3
+  ritual: false
+  school: Necromancy
+  casting_time: 1 minute
+  range: 10 ft
+  components: V, S, M
+  materials: a drop of blood, a piece of flesh, and a pinch of bone dust
+  duration: Inst.
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Animate Object:
+  level: 5
+  ritual: false
+  school: Transmutation
+  casting_time: 1 action
+  range: 120 ft
+  components: V, S
+  materials: ''
+  duration: 'C: 1 min max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Antilife Shell:
+  level: 5
+  ritual: false
+  school: Abjuration
+  casting_time: 1 action
+  range: Self (10ft radius)
+  components: V, S
+  materials: ''
+  duration: 'C: 1 hr max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Antimagic Field:
+  level: 8
+  ritual: false
+  school: Abjuration
+  casting_time: 1 action
+  range: Self (10ft radius)
+  components: V, S, M
+  materials: a pinch of powdered iron or iron filings
+  duration: 'C: 1 hr max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Antipathy/Sympathy:
+  level: 8
+  ritual: false
+  school: Enchantment
+  casting_time: 1 hour
+  range: 60 ft
+  components: V, S, M
+  materials: either a lump of alum soaked in vinegar for the antipathy effect or a
+    drop of honey for the sympathy effect
+  duration: 10 days
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Arcane Eye:
+  level: 4
+  ritual: false
+  school: Divination
+  casting_time: 1 action
+  range: 30 ft
+  components: V, S, M
+  materials: a bit of bat fur
+  duration: 'C: 1 hr max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Arcane Gate:
+  level: 6
+  ritual: false
+  school: Conjuration
+  casting_time: 1 action
+  range: 500 ft
+  components: V, S
+  materials: ''
+  duration: 'C: 10 min max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Arcane Lock:
+  level: 2
+  ritual: false
+  school: Abjuration
+  casting_time: 1 action
+  range: Touch
+  components: V, S, M
+  materials: gold dust worth at least 25 gp, which the spell consumes
+  duration: Until dispelled
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Armor of Agathys:
+  level: 1
+  ritual: false
+  school: Abjuration
+  casting_time: 1 action
+  range: Self
+  components: V, S, M
+  materials: a cup of water
+  duration: 1 hr
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Arms of Hadar:
+  level: 1
+  ritual: false
+  school: Conjuration
+  casting_time: 1 action
+  range: Self (10ft radius)
+  components: V, S
+  materials: ''
+  duration: Inst.
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Astral Projection:
+  level: 9
+  ritual: false
+  school: Necromancy
+  casting_time: 1 hour
+  range: 10 ft
+  components: V, S, M
+  materials: for each creature you affect with this spell, you must provide one jacinth
+    worth at least 1,000 gp and one ornately carved bar of silver worth at least 100
+    gp, all of which the spell consumes
+  duration: Special
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Augury:
+  level: 2
+  ritual: true
+  school: Divination
+  casting_time: 1 minute
+  range: Self
+  components: V, S, M
+  materials: specially marked sticks, bones, or similar tokens worth at least 25 gp
+  duration: Inst.
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Aura of Life:
+  level: 4
+  ritual: false
+  school: Abjuration
+  casting_time: 1 action
+  range: Self (30ft radius)
+  components: V
+  materials: ''
+  duration: 'C: 10 min max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Aura of Purity:
+  level: 4
+  ritual: false
+  school: Abjuration
+  casting_time: 1 action
+  range: Self (30ft radius)
+  components: V
+  materials: ''
+  duration: 'C: 10 min max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Aura of Vitality:
+  level: 3
+  ritual: false
+  school: Evocation
+  casting_time: 1 action
+  range: Self (30ft radius)
+  components: V
+  materials: ''
+  duration: 'C: 1 min max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Awaken:
+  level: 5
+  ritual: false
+  school: Transmutation
+  casting_time: 8 hours
+  range: Touch
+  components: V, S, M
+  materials: an agate worth at least 1,000 gp, which the spell consumes
+  duration: Inst.
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Bane:
+  level: 1
+  ritual: false
+  school: Enchantment
+  casting_time: 1 action
+  range: 30 ft
+  components: V, S, M
+  materials: a drop of blood
+  duration: 'C: 1 min max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Banishing Smite:
+  level: 5
+  ritual: false
+  school: Abjuration
+  casting_time: 1 bonus action
+  range: Self
+  components: V
+  materials: ''
+  duration: 'C: 1 min max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Banishment:
+  level: 4
+  ritual: false
+  school: Abjuration
+  casting_time: 1 action
+  range: 60 ft
+  components: V, S, M
+  materials: an item distasteful to the target
+  duration: 'C: 1 min max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Barkskin:
+  level: 2
+  ritual: false
+  school: Transmutation
+  casting_time: 1 action
+  range: Touch
+  components: V, S, M
+  materials: a handful of oak bark
+  duration: 'C: 1 hr max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Beacon of Hope:
+  level: 3
+  ritual: false
+  school: Abjuration
+  casting_time: 1 action
+  range: 30 ft
+  components: V, S
+  materials: ''
+  duration: 'C: 1 min max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Beast Sense:
+  level: 2
+  ritual: true
+  school: Divination
+  casting_time: 1 action
+  range: Touch
+  components: S
+  materials: ''
+  duration: 'C: 1 hr max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Bestow Curse:
+  level: 3
+  ritual: false
+  school: Necromancy
+  casting_time: 1 action
+  range: Touch
+  components: V, S
+  materials: ''
+  duration: 'C: 1 min max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Bigby's Hand:
+  level: 5
+  ritual: false
+  school: Evocation
+  casting_time: 1 action
+  range: 120 ft
+  components: V, S, M
+  materials: an eggshell and a snakeskin glove
+  duration: 'C: 1 min max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Blade Barrier:
+  level: 6
+  ritual: false
+  school: Evocation
+  casting_time: 1 action
+  range: 90 ft
+  components: V, S
+  materials: ''
+  duration: 'C: 10 min max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Blade Ward:
+  level: 0
+  ritual: false
+  school: Abjuration
+  casting_time: 1 action
+  range: Self
+  components: V, S
+  materials: ''
+  duration: 1 round
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Bless:
+  level: 1
+  ritual: false
+  school: Enchantment
+  casting_time: 1 action
+  range: 30 ft
+  components: V, S, M
+  materials: a sprinkling of holy water
+  duration: 'C: 1 min max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Blight:
+  level: 4
+  ritual: false
+  school: Necromancy
+  casting_time: 1 action
+  range: 30 ft
+  components: V, S
+  materials: ''
+  duration: Inst.
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Blinding Smite:
+  level: 3
+  ritual: false
+  school: Evocation
+  casting_time: 1 bonus action
+  range: Self
+  components: V
+  materials: ''
+  duration: 'C: 1 min max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Blindness/Deafness:
+  level: 2
+  ritual: false
+  school: Necromancy
+  casting_time: 1 action
+  range: 30 ft
+  components: V
+  materials: ''
+  duration: 1 min
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Blink:
+  level: 3
+  ritual: false
+  school: Transmutation
+  casting_time: 1 action
+  range: Self
+  components: V, S
+  materials: ''
+  duration: 1 min
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Blur:
+  level: 2
+  ritual: false
+  school: Illusion
+  casting_time: 1 action
+  range: Self
+  components: V
+  materials: ''
+  duration: 'C: 1 min max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Branding Smite:
+  level: 2
+  ritual: false
+  school: Evocation
+  casting_time: 1 bonus action
+  range: Self
+  components: V
+  materials: ''
+  duration: 'C: 1 min max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Burning Hands:
+  level: 1
+  ritual: false
+  school: Evocation
+  casting_time: 1 action
+  range: Self (15ft cone)
+  components: V, S
+  materials: ''
+  duration: Inst.
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Call Lightning:
+  level: 3
+  ritual: false
+  school: Conjuration
+  casting_time: 1 action
+  range: 120 ft
+  components: V, S
+  materials: ''
+  duration: 'C: 10 min max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Calm Emotions:
+  level: 2
+  ritual: false
+  school: Enchantment
+  casting_time: 1 action
+  range: 60 ft
+  components: V, S
+  materials: ''
+  duration: 'C: 1 min max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Chain Lightning:
+  level: 6
+  ritual: false
+  school: Evocation
+  casting_time: 1 action
+  range: 150 ft
+  components: V, S, M
+  materials: a bit of fur; a piece of amber, glass, or a crystal rod; and three silver
+    pins
+  duration: Inst.
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Charm Person:
+  level: 1
+  ritual: false
+  school: Enchantment
+  casting_time: 1 action
+  range: 30 ft
+  components: V, S
+  materials: ''
+  duration: 1 hr
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Chill Touch:
+  level: 0
+  ritual: false
+  school: Necromancy
+  casting_time: 1 action
+  range: 120 ft
+  components: V, S
+  materials: ''
+  duration: 1 round
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Chromatic Orb:
+  level: 1
+  ritual: false
+  school: Evocation
+  casting_time: 1 action
+  range: 90 ft
+  components: V, S, M
+  materials: a diamond worth at least 50 gp
+  duration: Inst.
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Circle of Death:
+  level: 6
+  ritual: false
+  school: Necromancy
+  casting_time: 1 action
+  range: 150 ft
+  components: V, S, M
+  materials: the powder of a crushed black pearl worth at least 500 gp
+  duration: Inst.
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Circle of Power:
+  level: 5
+  ritual: false
+  school: Abjuration
+  casting_time: 1 action
+  range: Self (30ft radius)
+  components: V
+  materials: ''
+  duration: 'C: 10 min max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Clairvoyance:
+  level: 3
+  ritual: false
+  school: Divination
+  casting_time: 10 minutes
+  range: 1 mile
+  components: V, S, M
+  materials: (a focus worth at least 100 gp, either a jeweled horn for hearing or
+    a glass eye for seeing
+  duration: 'C: 10 min max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Clone:
+  level: 8
+  ritual: false
+  school: Necromancy
+  casting_time: 1 hour
+  range: Touch
+  components: V, S, M
+  materials: a diamond worth at least 1,000 gp and at least 1 cubic inch of flesh
+    of the creature that is to be cloned, which the spell consumes, and a vessel worth
+    at least 2,000 gp that has a sealable lid and is large enough to hold a Medium
+    creature, such as a huge urn, coffin, mud-filled cyst in the ground, or crystal
+    container filled with salt water
+  duration: Inst.
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Cloud of Daggers:
+  level: 2
+  ritual: false
+  school: Conjuration
+  casting_time: 1 action
+  range: 60 ft
+  components: V, S, M
+  materials: a sliver of glass
+  duration: 'C: 1 min max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Cloudkill:
+  level: 5
+  ritual: false
+  school: Conjuration
+  casting_time: 1 action
+  range: 120 ft
+  components: V, S
+  materials: ''
+  duration: 'C: 10 min max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Color Spray:
+  level: 1
+  ritual: false
+  school: Illusion
+  casting_time: 1 action
+  range: Self (15ft cone)
+  components: V, S, M
+  materials: a pinch of powder or sand that is colored red, yellow, and blue
+  duration: 1 round
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Command:
+  level: 1
+  ritual: false
+  school: Enchantment
+  casting_time: 1 action
+  range: 60 ft
+  components: V
+  materials: ''
+  duration: 1 round
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Commune:
+  level: 5
+  ritual: true
+  school: Divination
+  casting_time: 1 minute
+  range: Self
+  components: V, S, M
+  materials: incense and a vial of holy or unholy water
+  duration: 1 min
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Commune with Nature:
+  level: 5
+  ritual: true
+  school: Divination
+  casting_time: 1 minute
+  range: Self
+  components: V, S
+  materials: ''
+  duration: Inst.
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Compeled Duel:
+  level: 1
+  ritual: false
+  school: Enchantment
+  casting_time: 1 bonus action
+  range: 30 ft
+  components: V
+  materials: ''
+  duration: 'C: 1 min max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Comprehend Languages:
+  level: 1
+  ritual: true
+  school: Divination
+  casting_time: 1 action
+  range: Self
+  components: V, S, M
+  materials: a pinch of soot and salt
+  duration: 1 hr
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Compulsion:
+  level: 4
+  ritual: false
+  school: Enchantment
+  casting_time: 1 action
+  range: 30 ft
+  components: V, S
+  materials: ''
+  duration: 'C: 1 min max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Cone of Cold:
+  level: 5
+  ritual: false
+  school: Evocation
+  casting_time: 1 action
+  range: Self (60ft cone)
+  components: V, S, M
+  materials: a small crystal or glass cone
+  duration: Inst.
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Confusion:
+  level: 4
+  ritual: false
+  school: Enchantment
+  casting_time: 1 action
+  range: 90 ft
+  components: V, S, M
+  materials: three nut shells
+  duration: 'C: 1 min max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Conjure Animals:
+  level: 3
+  ritual: false
+  school: Conjuration
+  casting_time: 1 action
+  range: 60 ft
+  components: V, S
+  materials: ''
+  duration: 'C: 1 hr max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Conjure Barrage:
+  level: 3
+  ritual: false
+  school: Conjuration
+  casting_time: 1 action
+  range: Self (60ft cone)
+  components: V, S, M
+  materials: one piece of ammunition or a thrown weapon
+  duration: Inst.
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Conjure Celestial:
+  level: 7
+  ritual: false
+  school: Conjuration
+  casting_time: 1 minute
+  range: 90 ft
+  components: V, S
+  materials: ''
+  duration: 'C: 1 hr max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Conjure Elemental:
+  level: 5
+  ritual: false
+  school: Conjuration
+  casting_time: 1 minute
+  range: 90 ft
+  components: V, S, M
+  materials: burning incense for air, soft clay for earth, sulfur and phosphorus for
+    fire, or water and sand for water
+  duration: 'C: 1 hr max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Conjure Fey:
+  level: 6
+  ritual: false
+  school: Conjuration
+  casting_time: 1 minute
+  range: 90 ft
+  components: V, S
+  materials: ''
+  duration: 'C: 1 hr max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Conjure Minor Elementals:
+  level: 4
+  ritual: false
+  school: Conjuration
+  casting_time: 1 minute
+  range: 90 ft
+  components: V, S
+  materials: ''
+  duration: 'C: 1 hr max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Conjure Volley:
+  level: 5
+  ritual: false
+  school: Conjuration
+  casting_time: 1 action
+  range: 150 ft
+  components: V, S, M
+  materials: one piece of ammunition or a thrown weapon
+  duration: Inst.
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Conjure Woodland Beings:
+  level: 4
+  ritual: false
+  school: Conjuration
+  casting_time: 1 action
+  range: 60 ft
+  components: V, S, M
+  materials: one holly berry per creature summoned
+  duration: 'C: 1 hr max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Contact Other Plane:
+  level: 5
+  ritual: true
+  school: Divination
+  casting_time: 1 minute
+  range: Self
+  components: V
+  materials: ''
+  duration: 1 min
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Contagion:
+  level: 5
+  ritual: false
+  school: Necromancy
+  casting_time: 1 action
+  range: Touch
+  components: V, S
+  materials: ''
+  duration: 7 days
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Contingency:
+  level: 6
+  ritual: false
+  school: Evocation
+  casting_time: 10 minutes
+  range: Self
+  components: V, S, M
+  materials: a statuette of yourself carved from ivory and decorated with gems worth
+    at least 1,500 gp
+  duration: 10 days
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Continual Flame:
+  level: 2
+  ritual: false
+  school: Evocation
+  casting_time: 1 action
+  range: Touch
+  components: V, S, M
+  materials: ruby dust worth 50 gp, which the spell consumes
+  duration: Until dispelled
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Control Water:
+  level: 4
+  ritual: false
+  school: Transmutation
+  casting_time: 1 action
+  range: 300 ft
+  components: V, S, M
+  materials: a drop of water and a pinch of dust
+  duration: 'C: 10 min max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Control Weather:
+  level: 8
+  ritual: false
+  school: Transmutation
+  casting_time: 10 minutes
+  range: Self (5miles radius)
+  components: V, S, M
+  materials: burning incense and bits of earth and wood mixed in water
+  duration: 'C: 8 hrs max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Cordon of Arrows:
+  level: 2
+  ritual: false
+  school: Transmutation
+  casting_time: 1 action
+  range: 5 ft
+  components: V, S, M
+  materials: four or more arrows or bolts
+  duration: 8 hrs
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Counterspell:
+  level: 3
+  ritual: false
+  school: Abjuration
+  casting_time: 1 reaction, which you take when you see a creature within 60 feet
+    of you casting a spell
+  range: 60 ft
+  components: S
+  materials: ''
+  duration: Inst.
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Create Food and Water:
+  level: 3
+  ritual: false
+  school: Conjuration
+  casting_time: 1 action
+  range: 30 ft
+  components: V, S
+  materials: ''
+  duration: Inst.
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Create or Destroy Water:
+  level: 1
+  ritual: false
+  school: Transmutation
+  casting_time: 1 action
+  range: 30 ft
+  components: V, S, M
+  materials: a drop of water if creating water or a few grains of sand if destroying
+    it
+  duration: Inst.
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Create Undead:
+  level: 6
+  ritual: false
+  school: Necromancy
+  casting_time: 1 minute
+  range: 10 ft
+  components: V, S, M
+  materials: one clay pot filled with grave dirt, one clay pot filled with brackish
+    water, and one 150 gp black onyx stone for each corpse
+  duration: Inst.
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Creation:
+  level: 5
+  ritual: false
+  school: Illusion
+  casting_time: 1 minute
+  range: 30 ft
+  components: V, S, M
+  materials: a tiny piece of matter of the same type of the item you plan to create
+  duration: Special
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Crown of Madness:
+  level: 2
+  ritual: false
+  school: Enchantment
+  casting_time: 1 action
+  range: 120 ft
+  components: V, S
+  materials: ''
+  duration: 'C: 1 min max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Crusader's Mantle:
+  level: 3
+  ritual: false
+  school: Evocation
+  casting_time: 1 action
+  range: Self
+  components: V
+  materials: ''
+  duration: 'C: 1 min max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Cure Wounds:
+  level: 1
+  ritual: false
+  school: Evocation
+  casting_time: 1 action
+  range: Touch
+  components: V, S
+  materials: ''
+  duration: Inst.
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Dancing Lights:
+  level: 0
+  ritual: false
+  school: Evocation
+  casting_time: 1 action
+  range: 120 ft
+  components: V, S, M
+  materials: a bit of phosphorus or wychwood, or a glowworm
+  duration: 'C: 1 min max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Darkness:
+  level: 2
+  ritual: false
+  school: Evocation
+  casting_time: 1 action
+  range: 60 ft
+  components: V, M
+  materials: ''
+  duration: 'C: 10 min max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Darkvision:
+  level: 2
+  ritual: false
+  school: Transmutation
+  casting_time: 1 action
+  range: Touch
+  components: V, S, M
+  materials: either a pinch of dried carrot or an agate
+  duration: 8 hrs
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Daylight:
+  level: 3
+  ritual: false
+  school: Evocation
+  casting_time: 1 action
+  range: 60 ft
+  components: V, S
+  materials: ''
+  duration: 1 hr
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Death Ward:
+  level: 4
+  ritual: false
+  school: Abjuration
+  casting_time: 1 action
+  range: Touch
+  components: V, S
+  materials: ''
+  duration: 8 hrs
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Delayed Blast Fireball:
+  level: 7
+  ritual: false
+  school: Evocation
+  casting_time: 1 action
+  range: 150 ft
+  components: V, S, M
+  materials: a tiny ball of bat guano and sulfur
+  duration: 'C: 1 min max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Demiplane:
+  level: 8
+  ritual: false
+  school: Conjuration
+  casting_time: 1 action
+  range: 60 ft
+  components: V
+  materials: ''
+  duration: 1 hr
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Destructive Wave (Smite?):
+  level: 5
+  ritual: false
+  school: Evocation
+  casting_time: 1 action
+  range: Self (30ft radius)
+  components: V
+  materials: ''
+  duration: Inst.
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Detect Evil and Good:
+  level: 1
+  ritual: false
+  school: Divination
+  casting_time: 1 action
+  range: Self
+  components: V, S
+  materials: ''
+  duration: 'C: 10 min max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Detect Magic:
+  level: 1
+  ritual: true
+  school: Divination
+  casting_time: 1 action
+  range: Self
+  components: V, S
+  materials: ''
+  duration: 'C: 10 min max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Detect Poison and Disease:
+  level: 1
+  ritual: true
+  school: Divination
+  casting_time: 1 action
+  range: Self
+  components: V, S, M
+  materials: a yew leaf
+  duration: 'C: 10 min max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Detect Thoughts:
+  level: 2
+  ritual: false
+  school: Divination
+  casting_time: 1 action
+  range: Self
+  components: V, S, M
+  materials: a copper piece
+  duration: 'C: 1 min max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Dimension Door:
+  level: 4
+  ritual: false
+  school: Conjuration
+  casting_time: 1 action
+  range: 500 ft
+  components: V
+  materials: ''
+  duration: Inst.
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Disguise Self:
+  level: 1
+  ritual: false
+  school: Illusion
+  casting_time: 1 action
+  range: Self
+  components: V, S
+  materials: ''
+  duration: 1 hr
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Disintegrate:
+  level: 6
+  ritual: false
+  school: Transmutation
+  casting_time: 1 action
+  range: 60 ft
+  components: V, S, M
+  materials: a lodestone and a pinch of dust
+  duration: Inst.
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Dispel Evil and Good:
+  level: 5
+  ritual: false
+  school: Abjuration
+  casting_time: 1 action
+  range: Self
+  components: V, S, M
+  materials: holy water or powdered silver and iron
+  duration: 'C: 1 min max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Dispel Magic:
+  level: 3
+  ritual: false
+  school: Abjuration
+  casting_time: 1 action
+  range: 120 ft
+  components: V, S
+  materials: ''
+  duration: Inst.
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Dissonant Whispers:
+  level: 1
+  ritual: false
+  school: Enchantment
+  casting_time: 1 action
+  range: 60 ft
+  components: V
+  materials: ''
+  duration: Inst.
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Divination:
+  level: 4
+  ritual: true
+  school: Divination
+  casting_time: 1 action
+  range: Self
+  components: V, S, M
+  materials: incense and a sacrificial offering appropriate to your religion, together
+    worth at least 25 gp, which the spell consumes
+  duration: Inst.
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Divine Favor:
+  level: 1
+  ritual: false
+  school: Evocation
+  casting_time: 1 bonus action
+  range: Self
+  components: V, S
+  materials: ''
+  duration: 'C: 1 min max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Divine Word:
+  level: 7
+  ritual: false
+  school: Evocation
+  casting_time: 1 bonus action
+  range: Self
+  components: V
+  materials: ''
+  duration: Inst.
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Dominate Beast:
+  level: 4
+  ritual: false
+  school: Enchantment
+  casting_time: 1 action
+  range: 30 ft
+  components: V, S
+  materials: ''
+  duration: 'C: 1 min max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Dominate Monster:
+  level: 8
+  ritual: false
+  school: Enchantment
+  casting_time: 1 action
+  range: 60 ft
+  components: V, S
+  materials: ''
+  duration: 'C: 1 hr max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Dominate Person:
+  level: 5
+  ritual: false
+  school: Enchantment
+  casting_time: 1 action
+  range: 60 ft
+  components: V, S
+  materials: ''
+  duration: 'C: 1 min max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Drawmij's Instant Summon:
+  level: 6
+  ritual: true
+  school: Conjuration
+  casting_time: 1 minute
+  range: Touch
+  components: V, S, M
+  materials: a sapphire worth 1,000 gp
+  duration: Until Dispelled
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Dream:
+  level: 5
+  ritual: false
+  school: Illusion
+  casting_time: 1 minute
+  range: Special
+  components: V, S, M
+  materials: a handful of sand, a dab of ink, and a writing quill plucked from a sleeping
+    bird
+  duration: 8 hrs
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Druidcraft:
+  level: 0
+  ritual: false
+  school: Transmutation
+  casting_time: 1 action
+  range: 30 ft
+  components: V, S
+  materials: ''
+  duration: Inst.
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: Whispering to the spirits of nature, you create one of the following
+    effects within range. 1) You create a tiny, harmless sensory effect that predicts
+    what the weather will be at your location for the next 24 hours. The effect might
+    manifest as a golden orb for clear skies, a cloud for rain, falling snowflakes
+    for snow, and so on. This effect persists for 1 round. 2) You instantly make a
+    flower blossom, a seed pod open, or a leaf bud bloom. 3) You create an instantaneous,
+    harmless sensory effect, such as falling leaves, a puff of wind, the sound of
+    a small animal, or the faint odor of skunk. The effect must fit in a 5-foot cube.
+    4) You instantly light or snuff out a candle, a torch, or a small campfire.
+Earthquake:
+  level: 8
+  ritual: false
+  school: Evocation
+  casting_time: 1 action
+  range: 500 ft
+  components: V, S, M
+  materials: a pinch of dirt, a piece of rock, and a lump of clay
+  duration: 'C: 1 min max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Eldritch Blast:
+  level: 0
+  ritual: false
+  school: Evocation
+  casting_time: 1 action
+  range: 120 ft
+  components: V, S
+  materials: ''
+  duration: Inst.
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Elemental Weapon:
+  level: 3
+  ritual: false
+  school: Transmutation
+  casting_time: 1 action
+  range: Touch
+  components: V, S
+  materials: ''
+  duration: 'C: 1 hr max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Enhance Ability:
+  level: 2
+  ritual: false
+  school: Transmutation
+  casting_time: 1 action
+  range: Touch
+  components: V, S, M
+  materials: fur or a feather from a beast
+  duration: 'C: 1 hr max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Enlarge/Reduce:
+  level: 2
+  ritual: false
+  school: Transmutation
+  casting_time: 1 action
+  range: 30 ft
+  components: V, S, M
+  materials: a pinch of powdered iron
+  duration: 'C: 1 min max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Ensnaring Strike:
+  level: 1
+  ritual: false
+  school: Conjuration
+  casting_time: 1 bonus action
+  range: Self
+  components: V
+  materials: ''
+  duration: 'C: 1 min max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Entangle:
+  level: 1
+  ritual: false
+  school: Conjuration
+  casting_time: 1 action
+  range: 90 ft
+  components: V, S
+  materials: ''
+  duration: 'C: 1 min max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Enthrall:
+  level: 2
+  ritual: false
+  school: Enchantment
+  casting_time: 1 action
+  range: 60 ft
+  components: V, S
+  materials: ''
+  duration: 1 min
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Etherealness:
+  level: 7
+  ritual: false
+  school: Transmutation
+  casting_time: 1 action
+  range: Self
+  components: V, S
+  materials: ''
+  duration: Up to 8 hrs
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Evard's Black Tentacles:
+  level: 4
+  ritual: false
+  school: Conjuration
+  casting_time: 1 action
+  range: 90 ft
+  components: V, S, M
+  materials: a piece of tentacle from a giant octopus or a giant squid
+  duration: 'C: 1 min max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Expeditious Retreat:
+  level: 1
+  ritual: false
+  school: Transmutation
+  casting_time: 1 bonus action
+  range: Self
+  components: V, S
+  materials: ''
+  duration: 'C: 10 min max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Eyebite:
+  level: 6
+  ritual: false
+  school: Necromancy
+  casting_time: 1 action
+  range: Self
+  components: V, S
+  materials: ''
+  duration: 'C: 1 min max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Fabricate:
+  level: 4
+  ritual: false
+  school: Transmutation
+  casting_time: 10 minutes
+  range: 120 ft
+  components: V, S
+  materials: ''
+  duration: Inst.
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Faerire Fire:
+  level: 1
+  ritual: false
+  school: Evocation
+  casting_time: 1 action
+  range: 60 ft
+  components: V
+  materials: ''
+  duration: 'C: 1 min max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+False Life:
+  level: 1
+  ritual: false
+  school: Necromancy
+  casting_time: 1 action
+  range: Self
+  components: V, S, M
+  materials: a small amount of alcohol or distilled spirits
+  duration: 1 hr
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Fear:
+  level: 3
+  ritual: false
+  school: Illusion
+  casting_time: 1 action
+  range: Self (30ft cone)
+  components: V, S, M
+  materials: a white feather or the heart of a hen
+  duration: 'C: 1 min max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Feather Fall:
+  level: 1
+  ritual: false
+  school: Transmutation
+  casting_time: 1 reaction, which you take when you or a creature within 60 feet of
+    you falls
+  range: 60 ft
+  components: V, M
+  materials: a small feather or piece of down
+  duration: 1 min
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Feeblemind:
+  level: 8
+  ritual: false
+  school: Enchantment
+  casting_time: 1 action
+  range: 150 ft
+  components: V, S, M
+  materials: a handful of clay, crystal, glass, or mineral spheres
+  duration: Inst.
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Feign Death:
+  level: 3
+  ritual: true
+  school: Necromancy
+  casting_time: 1 action
+  range: Touch
+  components: V, S, M
+  materials: a pinch of graveyard dirt
+  duration: 1 hr
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Find Familiar:
+  level: 1
+  ritual: true
+  school: Conjuration
+  casting_time: 1 hour
+  range: 10 ft
+  components: V, S, M
+  materials: 10 gp worth of charcoal, incense, and herbs that must be consumed by
+    fire in a brass brazier
+  duration: Inst.
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Find Steed:
+  level: 2
+  ritual: false
+  school: Conjuration
+  casting_time: 10 minutes
+  range: 30 ft
+  components: V, S
+  materials: ''
+  duration: Inst.
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Find the Path:
+  level: 6
+  ritual: false
+  school: Divination
+  casting_time: 1 minute
+  range: Self
+  components: V, S, M
+  materials: a set of divinatory tools, such as bones, ivory sticks, cards, teeth,
+    or carved runes, worth 100 gp and an object from the location you wish to find
+  duration: 'C: 1 day max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Find Traps:
+  level: 2
+  ritual: false
+  school: Divination
+  casting_time: 1 action
+  range: 120 ft
+  components: V, S
+  materials: ''
+  duration: Inst.
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Finger of Death:
+  level: 7
+  ritual: false
+  school: Necromancy
+  casting_time: 1 action
+  range: 60 ft
+  components: V, S
+  materials: ''
+  duration: Inst.
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Fireball:
+  level: 3
+  ritual: false
+  school: Evocation
+  casting_time: 1 action
+  range: 150 ft
+  components: V, S, M
+  materials: a tiny ball of bat guano and sulfur
+  duration: Inst.
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Fire Bolt:
+  level: 0
+  ritual: false
+  school: Evocation
+  casting_time: 1 action
+  range: 120 ft
+  components: V, S
+  materials: ''
+  duration: Inst.
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Fire Shield:
+  level: 4
+  ritual: false
+  school: Evocation
+  casting_time: 1 action
+  range: Self
+  components: V, S, M
+  materials: a bit of phosphorus or a firefly
+  duration: 10 min
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Fire Storm:
+  level: 7
+  ritual: false
+  school: Evocation
+  casting_time: 1 action
+  range: 150 ft
+  components: V, S
+  materials: ''
+  duration: Inst.
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Flame Blade:
+  level: 2
+  ritual: false
+  school: Evocation
+  casting_time: 1 bonus action
+  range: Self
+  components: V, S, M
+  materials: leaf of sumac
+  duration: 'C: 10 min max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Flame Strike:
+  level: 5
+  ritual: false
+  school: Evocation
+  casting_time: 1 action
+  range: 60 ft
+  components: V, S, M
+  materials: pinch of sulfur
+  duration: Inst.
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Flaming Sphere:
+  level: 2
+  ritual: false
+  school: Conjuration
+  casting_time: 1 action
+  range: 60 ft
+  components: V, S, M
+  materials: a bit of tallow, a pinch of brimstone, and a dusting of powdered iron
+  duration: 'C: 1 min max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Flesh to Stone:
+  level: 6
+  ritual: false
+  school: Transmutation
+  casting_time: 1 action
+  range: 60 ft
+  components: V, S, M
+  materials: a pinch of lime, water, and earth
+  duration: 'C: 1 min max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Fly:
+  level: 3
+  ritual: false
+  school: Transmutation
+  casting_time: 1 action
+  range: Touch
+  components: V, S, M
+  materials: a wing feather from any bird
+  duration: 'C: 10 min max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Fog Cloud:
+  level: 1
+  ritual: false
+  school: Conjuration
+  casting_time: 1 action
+  range: 120 ft
+  components: V, S
+  materials: ''
+  duration: 'C: 1 hr max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Forbiddance:
+  level: 6
+  ritual: true
+  school: Abjuration
+  casting_time: 10 minutes
+  range: Touch
+  components: V, S, M
+  materials: a sprinkling of holy water, rare incense, and powdered ruby worth at
+    least 1,000 gp
+  duration: 1 day
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Forcecage:
+  level: 7
+  ritual: false
+  school: Evocation
+  casting_time: 1 action
+  range: 100 ft
+  components: V, S, M
+  materials: ruby dust worth 1,500 gp
+  duration: 1 hr
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Foresight:
+  level: 9
+  ritual: false
+  school: Divination
+  casting_time: 1 minute
+  range: Touch
+  components: V, S, M
+  materials: a hummingbird feather
+  duration: 8 hrs
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Freedom of Movement:
+  level: 4
+  ritual: false
+  school: Abjuration
+  casting_time: Touch
+  range: Touch
+  components: V, S, M
+  materials: a leather strap, bound around the arm or a similar appendage
+  duration: 1 hr
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Friends:
+  level: 0
+  ritual: false
+  school: Enchantment
+  casting_time: 1 action
+  range: Self
+  components: S, M
+  materials: a small amount of makeup applied to the face as this spell is cast
+  duration: 'C: 1 min max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Gaseous Form:
+  level: 3
+  ritual: false
+  school: Transmutation
+  casting_time: 1 action
+  range: Touch
+  components: V, S, M
+  materials: a bit of gauze and a wisp of smoke
+  duration: 'C: 1 hr max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Gate:
+  level: 9
+  ritual: false
+  school: Conjuration
+  casting_time: 1 action
+  range: 60 ft
+  components: V, S, M
+  materials: a diamond worth at least 5,000 gp
+  duration: 'C: 1 min max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Geas:
+  level: 5
+  ritual: false
+  school: Enchantment
+  casting_time: 1 minute
+  range: 60 ft
+  components: V
+  materials: ''
+  duration: 30 days
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Gentle Repose:
+  level: 2
+  ritual: true
+  school: Necromancy
+  casting_time: 1 action
+  range: Touch
+  components: V, S, M
+  materials: a pinch of salt and one copper piece placed on each of the corpse's eyes,
+    which must remain there for the duration
+  duration: 10 days
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Giant Insect:
+  level: 4
+  ritual: false
+  school: Transmutation
+  casting_time: 1 action
+  range: 30 ft
+  components: V, S
+  materials: ''
+  duration: 'C: 10 min max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Glibness:
+  level: 8
+  ritual: false
+  school: Transmutation
+  casting_time: 1 action
+  range: Self
+  components: V
+  materials: ''
+  duration: 1 hr
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Globe of Invulnerability:
+  level: 6
+  ritual: false
+  school: Abjuration
+  casting_time: 1 action
+  range: Self (10ft radius)
+  components: V, S, M
+  materials: glass or crystal bead that shatters when the spell ends
+  duration: 'C: 1 min max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Glyph of Warding:
+  level: 3
+  ritual: false
+  school: Abjuration
+  casting_time: 1 hour
+  range: Touch
+  components: V, S, M
+  materials: incense and powdered diamond worth at least 200 gp, which the spell consumes
+  duration: Until dispelled or triggered
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Goodberry:
+  level: 1
+  ritual: false
+  school: Transmutation
+  casting_time: 1 action
+  range: Touch
+  components: V, S, M
+  materials: a sprig of mistletoe
+  duration: Inst.
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Grasping Wine:
+  level: 4
+  ritual: false
+  school: Conjuration
+  casting_time: 1 bonus action
+  range: 30 ft
+  components: V, S
+  materials: ''
+  duration: 'C: 1 min max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Grease:
+  level: 1
+  ritual: false
+  school: Conjuration
+  casting_time: 1 action
+  range: 60 ft
+  components: V, S, M
+  materials: a bit of pork rind or butter
+  duration: 1 min
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Greater Invisibility:
+  level: 4
+  ritual: false
+  school: Illusion
+  casting_time: 1 action
+  range: Touch
+  components: V, S
+  materials: ''
+  duration: 'C: 1 min max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Greater Restoration:
+  level: 5
+  ritual: false
+  school: Abjuration
+  casting_time: 1 action
+  range: Touch
+  components: V, S, M
+  materials: diamond dust worth at least 100 gp, which the spell consumes
+  duration: Inst.
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Guardian of Faith:
+  level: 4
+  ritual: false
+  school: Conjuration
+  casting_time: 1 action
+  range: 30 ft
+  components: V
+  materials: ''
+  duration: 8 hrs
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Guards and Wards:
+  level: 6
+  ritual: false
+  school: Abjuration
+  casting_time: 10 minutes
+  range: Touch
+  components: V, S, M
+  materials: burning incense, a small measure of brimstone and oil, a knotted string,
+    a small amount of umber hulk blood, and a small silver rod worth at least 10 gp
+  duration: 24 hrs
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Guidance:
+  level: 0
+  ritual: false
+  school: Divination
+  casting_time: 1 action
+  range: Touch
+  components: V, S
+  materials: ''
+  duration: 'C: 1 min max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Guiding Bolt:
+  level: 1
+  ritual: false
+  school: Evocation
+  casting_time: 1 action
+  range: 120 ft
+  components: V, S
+  materials: ''
+  duration: 1 round
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Gust of Wind:
+  level: 2
+  ritual: false
+  school: Evocation
+  casting_time: 1 action
+  range: Self (60ft line)
+  components: V, S, M
+  materials: a legume seed
+  duration: 'C: 1 min max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Hail of Thorns:
+  level: 1
+  ritual: false
+  school: Conjuration
+  casting_time: 1 bonus action
+  range: Self
+  components: V
+  materials: ''
+  duration: 'C: 1 min max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Hallow:
+  level: 5
+  ritual: false
+  school: Evocation
+  casting_time: 24 hours
+  range: Touch
+  components: V, S, M
+  materials: herbs, oils, and incense worth at least 1,000 gp, which the spell consumes
+  duration: Until Dispelled
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Hallucinatory Terrain:
+  level: 4
+  ritual: false
+  school: Illusion
+  casting_time: 10 minutes
+  range: 300 ft
+  components: V, S, M
+  materials: a stone, a twig, and a bit of green plant
+  duration: 24 hrs
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Harm:
+  level: 6
+  ritual: false
+  school: Necromancy
+  casting_time: 1 action
+  range: 60 ft
+  components: V, S
+  materials: ''
+  duration: Inst.
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Haste:
+  level: 3
+  ritual: false
+  school: Transmutation
+  casting_time: 1 action
+  range: 30 ft
+  components: V, S, M
+  materials: a shaving of licorice root
+  duration: 'C: 1 min max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Heal:
+  level: 6
+  ritual: false
+  school: Evocation
+  casting_time: 1 action
+  range: 60 ft
+  components: V, S
+  materials: ''
+  duration: Inst.
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Healing Word:
+  level: 1
+  ritual: false
+  school: Evocation
+  casting_time: 1 bonus action
+  range: 60 ft
+  components: V
+  materials: ''
+  duration: Inst.
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Heat Metal:
+  level: 2
+  ritual: false
+  school: Transmutation
+  casting_time: 1 action
+  range: 60 ft
+  components: V, S, M
+  materials: a piece of iron and a flame
+  duration: 'C: 1 min max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Hellish Rebuke:
+  level: 1
+  ritual: false
+  school: Evocation
+  casting_time: 1 reaction, which you take in response to being damaged by a creature
+    within 60 feet of you that you can see
+  range: 60 ft
+  components: V, S
+  materials: ''
+  duration: Inst.
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Heroes's Feast:
+  level: 6
+  ritual: false
+  school: Conjuration
+  casting_time: 10 minutes
+  range: 30 ft
+  components: V, S, M
+  materials: a gem-encrusted bowl worth at least 1,000 gp, which the spell consumes
+  duration: Inst.
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Heroism:
+  level: 1
+  ritual: false
+  school: Enchantment
+  casting_time: 1 action
+  range: Touch
+  components: V, S
+  materials: ''
+  duration: 'C: 1 min max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Hex:
+  level: 1
+  ritual: false
+  school: Enchantment
+  casting_time: 1 bonus action
+  range: 90 ft
+  components: V, S, M
+  materials: the petrified eye of a newt
+  duration: 'C: 1 hr max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Hold Monster:
+  level: 5
+  ritual: false
+  school: Enchantment
+  casting_time: 1 action
+  range: 90 ft
+  components: V, S, M
+  materials: a small, straight piece of iron
+  duration: 'C: 1 min max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Hold Person:
+  level: 2
+  ritual: false
+  school: Enchantment
+  casting_time: 1 action
+  range: 60 ft
+  components: V, S, M
+  materials: a small, straight piece of iron
+  duration: 'C: 1 min max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Holy Aura:
+  level: 8
+  ritual: false
+  school: Abjuration
+  casting_time: 1 action
+  range: Self
+  components: V, S, M
+  materials: a tiny reliquary worth at least 1,000 gp containing a sacred relic, such
+    as a scrap of cloth from a saint's robe or a piece of parchment from a religious
+    text
+  duration: 'C: 1 min max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Hunger of Hadar:
+  level: 3
+  ritual: false
+  school: Conjuration
+  casting_time: 1 action
+  range: 150 ft
+  components: V, S, M
+  materials: a pickled octopus tentacle
+  duration: 'C: 1 min max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Hunter's Mask:
+  level: 1
+  ritual: false
+  school: Divination
+  casting_time: 1 bonus action
+  range: 90 ft
+  components: V
+  materials: ''
+  duration: 'C: 1 hr max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Hypnotic Pattern:
+  level: 3
+  ritual: false
+  school: Illusion
+  casting_time: 1 action
+  range: 120 ft
+  components: S, M
+  materials: a glowing stick of incense or a crystal vial filled with phosphorescent
+    material
+  duration: 'C: 1 min max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Ice Storm:
+  level: 4
+  ritual: false
+  school: Evocation
+  casting_time: 1 action
+  range: 300 ft
+  components: V, S, M
+  materials: a pinch of dust and a few drops of water
+  duration: Inst.
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Identify:
+  level: 1
+  ritual: false
+  school: Divination
+  casting_time: 1 minute
+  range: Touch
+  components: V, S, M
+  materials: a pearl worth at least 100 gp and an owl feather
+  duration: Inst.
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Illusory Script:
+  level: 1
+  ritual: true
+  school: Illusion
+  casting_time: 1 minute
+  range: Touch
+  components: S, M
+  materials: a lead-based ink worth at least 10 gp, which the spell consumes
+  duration: 10 days
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Imprisonment:
+  level: 9
+  ritual: false
+  school: Abjuration
+  casting_time: 1 minute
+  range: 30 ft
+  components: V, S, M
+  materials: a vellum depiction or a carved statuette in the likeness of the target,
+    and a special component that varies according to the version of the spell you
+    choose, worth at least 500 gp per Hit Die of the target
+  duration: Until Dispelled
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Incendiary Cloud:
+  level: 8
+  ritual: false
+  school: Conjuration
+  casting_time: 1 action
+  range: 150 ft
+  components: V, S
+  materials: ''
+  duration: 'C: 1 min max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Inflict Wounds:
+  level: 1
+  ritual: false
+  school: Necromancy
+  casting_time: 1 action
+  range: Touch
+  components: V, S
+  materials: ''
+  duration: Inst.
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Insect Plague:
+  level: 5
+  ritual: false
+  school: Conjuration
+  casting_time: 1 action
+  range: 300 ft
+  components: V, S, M
+  materials: a few grains of sugar, some kernels of grain, and a smear of fat
+  duration: 'C: 1 min max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Invisibility:
+  level: 2
+  ritual: false
+  school: Illusion
+  casting_time: 1 action
+  range: Touch
+  components: V, S, M
+  materials: an eyelash encased in gum arabic
+  duration: 'C: 1 hr max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Jump:
+  level: 1
+  ritual: false
+  school: Transmutation
+  casting_time: 1 action
+  range: Touch
+  components: V, S, M
+  materials: a grasshopper's hind leg
+  duration: 1 min
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Knock:
+  level: 2
+  ritual: false
+  school: Transmutation
+  casting_time: 1 action
+  range: 60 ft
+  components: V
+  materials: ''
+  duration: Inst.
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Legend Lore:
+  level: 5
+  ritual: false
+  school: Divination
+  casting_time: 10 minutes
+  range: Self
+  components: V, S, M
+  materials: incense worth at least 250 gp, which the spell consumes, and four ivory
+    strips worth at least 50 gp each
+  duration: Inst.
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Leomund's Secret Chest:
+  level: 4
+  ritual: false
+  school: Conjuration
+  casting_time: 1 action
+  range: Touch
+  components: V, S, M
+  materials: an exquisite chest, 3 feet by 2 feet by 2 feet, constructed from rare
+    materials worth at least 5,000 gp, and a Tiny replica made from the same materials
+    worth at least 50 gp
+  duration: Inst.
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Leomund's Tiny Hut:
+  level: 3
+  ritual: true
+  school: Evocation
+  casting_time: 1 minute
+  range: Self (10ft radius hemisphere)
+  components: V, S, M
+  materials: a small crystal bead
+  duration: 8 hrs
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Lesser Restoration:
+  level: 2
+  ritual: true
+  school: Abjuration
+  casting_time: 1 action
+  range: Touch
+  components: V, S
+  materials: ''
+  duration: Inst.
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Levitate:
+  level: 2
+  ritual: false
+  school: Transmutation
+  casting_time: 1 action
+  range: 60 ft
+  components: V, S, M
+  materials: either a small leather loop or a piece of golden wire bent into a cup
+    shape with a long shank on one end
+  duration: 'C: 10 min max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Light:
+  level: 0
+  ritual: false
+  school: Evocation
+  casting_time: 1 action
+  range: Touch
+  components: V, M
+  materials: a firefly or phosphorescent moss
+  duration: 1 hr
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Lightning Arrow:
+  level: 3
+  ritual: false
+  school: Transmutation
+  casting_time: 1 bonus action
+  range: Self
+  components: V, S
+  materials: ''
+  duration: 'C: 1 min max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Lightning Bolt:
+  level: 3
+  ritual: false
+  school: Evocation
+  casting_time: 1 action
+  range: Self (100ft Line)
+  components: V, S, M
+  materials: a bit of fur and a rod of amber, crystal, or glass
+  duration: Inst.
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Locate Animals or Plants:
+  level: 2
+  ritual: true
+  school: Divination
+  casting_time: 1 action
+  range: Self
+  components: V, S, M
+  materials: a bit of fur from a bloodhound
+  duration: Inst.
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Locate Creature:
+  level: 4
+  ritual: false
+  school: Divination
+  casting_time: 1 action
+  range: Self
+  components: V, S, M
+  materials: a bit of fur from a bloodhound
+  duration: 'C: 1 hr max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Locate Object:
+  level: 2
+  ritual: false
+  school: Divination
+  casting_time: 1 action
+  range: Self
+  components: V, S, M
+  materials: a forked twig
+  duration: 'C: 10 min max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Longstrider:
+  level: 1
+  ritual: false
+  school: Transmutation
+  casting_time: 1 action
+  range: Touch
+  components: V, S, M
+  materials: a pinch of dirt
+  duration: 1 hr
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Mage Armor:
+  level: 1
+  ritual: false
+  school: Abjuration
+  casting_time: 1 action
+  range: Touch
+  components: V, S, M
+  materials: a piece of cured leather
+  duration: 8 hrs
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Mage Hand:
+  level: 0
+  ritual: false
+  school: Conjuration
+  casting_time: 1 action
+  range: 30 ft
+  components: V, S
+  materials: ''
+  duration: 1 min
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Magic Circle:
+  level: 3
+  ritual: false
+  school: Abjuration
+  casting_time: 1 minute
+  range: 10 ft
+  components: V, S, M
+  materials: holy water or powdered silver and iron worth at least 100 gp, which the
+    spell consumes
+  duration: 1 hr
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Magic Jar:
+  level: 6
+  ritual: false
+  school: Necromancy
+  casting_time: 1 minute
+  range: Self
+  components: V, S, M
+  materials: a gem, crystal, reliquary, or some other ornamental container worth at
+    least 500 gp
+  duration: Until Dispelled
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Magic Missile:
+  level: 1
+  ritual: false
+  school: Evocation
+  casting_time: 1 action
+  range: 120 ft
+  components: V, S
+  materials: ''
+  duration: Inst.
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Magic Mouth:
+  level: 2
+  ritual: true
+  school: Illusion
+  casting_time: 1 minute
+  range: 30 ft
+  components: V, S, M
+  materials: a small bit of honeycomb and jade dust worth at least 10 gp, which the
+    spell consumes
+  duration: Until Dispelled
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Magic Weapon:
+  level: 2
+  ritual: false
+  school: Transmutation
+  casting_time: 1 bonus action
+  range: Touch
+  components: V, S
+  materials: ''
+  duration: 'C: 1 hr max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Major Image:
+  level: 3
+  ritual: false
+  school: Illusion
+  casting_time: 1 action
+  range: 120 ft
+  components: V, S, M
+  materials: a bit of fleece
+  duration: 'C: 10 min max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Mass Cure Wounds:
+  level: 5
+  ritual: false
+  school: Conjuration
+  casting_time: 1 action
+  range: 60 ft
+  components: V, S
+  materials: ''
+  duration: Inst.
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Mass Heal:
+  level: 9
+  ritual: false
+  school: Conjuration
+  casting_time: 1 action
+  range: 60 ft
+  components: V, S
+  materials: ''
+  duration: Inst.
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Mass Healing Word:
+  level: 3
+  ritual: false
+  school: Evocation
+  casting_time: 1 bonus action
+  range: 60 ft
+  components: V
+  materials: ''
+  duration: Inst.
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Mass Suggestion:
+  level: 6
+  ritual: false
+  school: Enchantment
+  casting_time: 1 action
+  range: 60 ft
+  components: V, M
+  materials: a snake's tongue and either a bit of honeycomb or a drop of sweet oil
+  duration: 24 hrs
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Maze:
+  level: 8
+  ritual: false
+  school: Conjuration
+  casting_time: 1 action
+  range: 60 ft
+  components: V, S
+  materials: ''
+  duration: 'C: 10 min max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Meld Into Stone:
+  level: 3
+  ritual: true
+  school: Transmutation
+  casting_time: 1 action
+  range: Touch
+  components: V, S
+  materials: ''
+  duration: 8 hrs
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Melf's Acid Arrow:
+  level: 2
+  ritual: false
+  school: Evocation
+  casting_time: 1 action
+  range: 90 ft
+  components: V, S, M
+  materials: powdered rhubarb leaf and an adder's stomach
+  duration: Inst.
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Mending:
+  level: 0
+  ritual: false
+  school: Transmutation
+  casting_time: 1 minute
+  range: Touch
+  components: V, S, M
+  materials: two lodestones
+  duration: Inst.
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Message:
+  level: 0
+  ritual: false
+  school: Transmutation
+  casting_time: 1 action
+  range: 120 ft
+  components: V, S, M
+  materials: a short piece of copper wire
+  duration: 1 round
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Meteor Swarm:
+  level: 9
+  ritual: false
+  school: Evocation
+  casting_time: 1 action
+  range: 1 mile
+  components: V, S
+  materials: ''
+  duration: Inst.
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Mind Blank:
+  level: 8
+  ritual: false
+  school: Abjuration
+  casting_time: 1 action
+  range: Touch
+  components: V, S
+  materials: ''
+  duration: 24 hrs
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Minor Illusion:
+  level: 0
+  ritual: false
+  school: Illusion
+  casting_time: 1 action
+  range: 30 ft
+  components: S, M
+  materials: a bit of fleece
+  duration: 1 min
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Mirage Arcane:
+  level: 7
+  ritual: false
+  school: Illusion
+  casting_time: 10 minutes
+  range: Sight
+  components: V, S
+  materials: ''
+  duration: 10 days
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Mirror Image:
+  level: 2
+  ritual: false
+  school: Illusion
+  casting_time: 1 action
+  range: Self
+  components: V, S
+  materials: ''
+  duration: 1 min
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Mislead:
+  level: 5
+  ritual: false
+  school: Illusion
+  casting_time: 1 action
+  range: Self
+  components: S
+  materials: ''
+  duration: 'C: 1 hr max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Misty Step:
+  level: 2
+  ritual: false
+  school: Conjuration
+  casting_time: 1 bonus action
+  range: Self
+  components: V
+  materials: ''
+  duration: Inst.
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Modify Memory:
+  level: 5
+  ritual: false
+  school: Enchantment
+  casting_time: 1 action
+  range: 30 ft
+  components: V, S
+  materials: ''
+  duration: 'C: 1 min max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Moonbeam:
+  level: 2
+  ritual: false
+  school: Evocation
+  casting_time: 1 action
+  range: 120 ft
+  components: V, S, M
+  materials: several seeds of any m oonseed plant and a piece of opalescent feldspar
+  duration: 'C: 1 min max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Mordekainen's Faithful Hound:
+  level: 4
+  ritual: false
+  school: Conjuration
+  casting_time: 1 action
+  range: 30 ft
+  components: V, S, M
+  materials: a tiny silver whistle, a piece of bone, and a thread
+  duration: 8 hrs
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Mordekainen's Magnificent Mansion:
+  level: 7
+  ritual: false
+  school: Conjuration
+  casting_time: 1 minute
+  range: 300 ft
+  components: V, S, M
+  materials: a miniature portal carved from ivory, a small piece of polished marble,
+    and a tiny silver spoon, each item worth at least 5 gp
+  duration: 24 hrs
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Mordekainen's Private Sanctum:
+  level: 4
+  ritual: false
+  school: Abjuration
+  casting_time: 10 minutes
+  range: 120 ft
+  components: V, S, M
+  materials: a thin sheet of lead, a piece of opaque glass, a wad of cotton or cloth,
+    and powdered chrysolite
+  duration: 24 hrs
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Mordekainen's Sword:
+  level: 7
+  ritual: false
+  school: Evocation
+  casting_time: 1 action
+  range: 60 ft
+  components: V, S, M
+  materials: a miniature platinum sword with a grip and pommel of copper and zinc,
+    worth 250 gp
+  duration: 'C: 1 min max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Move Earth:
+  level: 6
+  ritual: false
+  school: Transmutation
+  casting_time: 1 action
+  range: 120 ft
+  components: V, S, M
+  materials: an iron blade and a small bag containing a mixture of oils & clay, loam,
+    and sand
+  duration: 'C: 2 hrs max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Nondetection:
+  level: 3
+  ritual: false
+  school: Abjuration
+  casting_time: 1 action
+  range: Touch
+  components: V, S, M
+  materials: a pinch of diamond dust worth 25 gp sprinkled over the target, which
+    the spell consumes
+  duration: 8 hrs
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Nystul's Magic Aura:
+  level: 2
+  ritual: false
+  school: Illusion
+  casting_time: 1 action
+  range: Touch
+  components: V, S, M
+  materials: a small square of silk
+  duration: 24 hrs
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Otiluke Freezing Sphere:
+  level: 6
+  ritual: false
+  school: Evocation
+  casting_time: 1 action
+  range: 300 ft
+  components: V, S, M
+  materials: a small crystal sphere
+  duration: Inst.
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Otiluke resilient Sphere:
+  level: 4
+  ritual: false
+  school: Evocation
+  casting_time: 1 action
+  range: 30 ft
+  components: V, S, M
+  materials: a hemispherical piece of clear crystal and a matching hemispherical piece
+    of gum arabic
+  duration: 'C: 1 min max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Otto's Irresistible Dance:
+  level: 6
+  ritual: false
+  school: Enchantment
+  casting_time: 1 action
+  range: 30 ft
+  components: V
+  materials: ''
+  duration: 'C: 1 min max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Pass Without Trace:
+  level: 2
+  ritual: false
+  school: Abjuration
+  casting_time: 1 action
+  range: Self
+  components: V, S, M
+  materials: ashes from a burned leaf of mistletoe and a sprig of spruce
+  duration: 'C: 1 hr max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Passwall:
+  level: 5
+  ritual: false
+  school: Transmutation
+  casting_time: 1 action
+  range: 30 ft
+  components: V, S, M
+  materials: a pinch of sesame seeds
+  duration: 1 hr
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Phantasmal Force:
+  level: 2
+  ritual: false
+  school: Illusion
+  casting_time: 1 action
+  range: 60 ft
+  components: V, S, M
+  materials: a bit of fleece
+  duration: 'C: 1 min max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Phantasmal Killer:
+  level: 4
+  ritual: false
+  school: Illusion
+  casting_time: 1 action
+  range: 120 ft
+  components: V, S
+  materials: ''
+  duration: 'C: 1 min max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Phantom Seed:
+  level: 3
+  ritual: true
+  school: Illusion
+  casting_time: 1 minute
+  range: 30 ft
+  components: V, S
+  materials: ''
+  duration: 1 hr
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Planar Ally:
+  level: 6
+  ritual: false
+  school: Conjuration
+  casting_time: 10 minutes
+  range: 60 ft
+  components: V, S
+  materials: ''
+  duration: Inst.
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Planar Binding:
+  level: 5
+  ritual: false
+  school: Abjuration
+  casting_time: 1 hour
+  range: 60 ft
+  components: V, S, M
+  materials: a jewel worth at least 1,000 gp, which the spell consumes
+  duration: 24 hrs
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Plane Shift:
+  level: 7
+  ritual: false
+  school: Conjuration
+  casting_time: 1 action
+  range: Touch
+  components: V, S, M
+  materials: a forked, metal rod worth at least 250 gp, attuned to a particular plane
+    of existence
+  duration: Inst.
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Plant Growth:
+  level: 3
+  ritual: false
+  school: Transmutation
+  casting_time: 1 action or 8 hours
+  range: 150 ft
+  components: V, S
+  materials: ''
+  duration: Inst.
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Poison Spray:
+  level: 0
+  ritual: false
+  school: Conjuration
+  casting_time: 1 action
+  range: 10 ft
+  components: V, S
+  materials: ''
+  duration: Inst.
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Polymorph:
+  level: 4
+  ritual: false
+  school: Transmutation
+  casting_time: 1 action
+  range: 60 ft
+  components: V, S, M
+  materials: a caterpillar cocoon
+  duration: 'C: 1 hr max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Power Word Heal:
+  level: 9
+  ritual: false
+  school: Evocation
+  casting_time: 1 action
+  range: Touch
+  components: V, S
+  materials: ''
+  duration: Inst.
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Power Word Kill:
+  level: 9
+  ritual: false
+  school: Enchantment
+  casting_time: 1 action
+  range: 60 ft
+  components: V
+  materials: ''
+  duration: Inst.
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Power Word Stun:
+  level: 8
+  ritual: false
+  school: Enchantment
+  casting_time: 1 action
+  range: 60 ft
+  components: V
+  materials: ''
+  duration: Inst.
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Prayer of Healing:
+  level: 2
+  ritual: false
+  school: Evocation
+  casting_time: 10 minutes
+  range: 30 ft
+  components: V
+  materials: ''
+  duration: Inst.
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Prestidigitation:
+  level: 0
+  ritual: false
+  school: Transmutation
+  casting_time: 1 action
+  range: 10 ft
+  components: V, S
+  materials: ''
+  duration: Up to 1 hr
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Prismatic Spray:
+  level: 7
+  ritual: false
+  school: Evocation
+  casting_time: 1 action
+  range: Sel f (60-foot cone)
+  components: V, S
+  materials: ''
+  duration: Inst.
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Prismatic Wall:
+  level: 9
+  ritual: false
+  school: Abjuration
+  casting_time: 1 action
+  range: 60 ft
+  components: V, S
+  materials: ''
+  duration: 10 min
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Produce Flame:
+  level: 0
+  ritual: false
+  school: Conjuration
+  casting_time: 1 action
+  range: Self
+  components: V, S
+  materials: ''
+  duration: 10 min
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Programmed Illusion:
+  level: 6
+  ritual: false
+  school: Illusion
+  casting_time: 1 action
+  range: 120 ft
+  components: V, S, M
+  materials: a bit of fleece and jade dust worth at least 25 gp
+  duration: Until Dispelled
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Project Image:
+  level: 7
+  ritual: false
+  school: Illusion
+  casting_time: 1 action
+  range: 500 miles
+  components: V, S, M
+  materials: a small replica of you made from materials worth at least 5 gp
+  duration: 'C: 1 day max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Protection From Energy:
+  level: 3
+  ritual: false
+  school: Abjuration
+  casting_time: 1 action
+  range: Touch
+  components: V, S
+  materials: ''
+  duration: 'C: 1 hr max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Protection From Evil and Good:
+  level: 1
+  ritual: false
+  school: Abjuration
+  casting_time: 1 action
+  range: Touch
+  components: V, S, M
+  materials: holy water or powdered silver and iron, which the spell consumes
+  duration: 'C: 10 min max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Protection From Poison:
+  level: 2
+  ritual: false
+  school: Abjuration
+  casting_time: 1 action
+  range: Touch
+  components: V, S
+  materials: ''
+  duration: 1 hr
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Purify Food and Drink:
+  level: 1
+  ritual: true
+  school: Transmutation
+  casting_time: 1 action
+  range: 10 ft
+  components: V, S
+  materials: ''
+  duration: Inst.
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Raise Dead:
+  level: 5
+  ritual: false
+  school: Necromancy
+  casting_time: 1 hour
+  range: Touch
+  components: V, S, M
+  materials: a diamond worth at least 500 gp, which the spell consumes
+  duration: Inst.
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Rary's Telepathic Bond:
+  level: 5
+  ritual: true
+  school: Divination
+  casting_time: 1 action
+  range: 30 ft
+  components: V, S, M
+  materials: pieces of eggshell from two different kinds of creatures
+  duration: 1 hr
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Ray of Enfeeblement:
+  level: 2
+  ritual: false
+  school: Necromancy
+  casting_time: 1 action
+  range: 60 ft
+  components: V, S
+  materials: ''
+  duration: 'C: 1 min max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Ray of Frost:
+  level: 0
+  ritual: false
+  school: Evocation
+  casting_time: 1 action
+  range: 60 ft
+  components: V, S
+  materials: ''
+  duration: Inst.
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Ray of Sickness:
+  level: 1
+  ritual: false
+  school: Necromancy
+  casting_time: 1 action
+  range: 60 ft
+  components: V, S
+  materials: ''
+  duration: Inst.
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Regenerate:
+  level: 7
+  ritual: false
+  school: Transmutation
+  casting_time: 1 minute
+  range: Touch
+  components: V, S, M
+  materials: a prayer wheel and holy water
+  duration: 1 hr
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Reincarnate:
+  level: 5
+  ritual: false
+  school: Transmutation
+  casting_time: 1 hour
+  range: Touch
+  components: V, S, M
+  materials: rare oils and unguents worth at least 1,000 gp, which the spell consumes
+  duration: Inst.
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Remove Curse:
+  level: 3
+  ritual: false
+  school: Abjuration
+  casting_time: 1 action
+  range: Touch
+  components: V, S
+  materials: ''
+  duration: Inst.
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Resistance:
+  level: 0
+  ritual: false
+  school: Abjuration
+  casting_time: 1 action
+  range: Touch
+  components: V, S, M
+  materials: a miniature cloak
+  duration: 'C: 1 min max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Resurrection:
+  level: 7
+  ritual: false
+  school: Necromancy
+  casting_time: 1 hour
+  range: Touch
+  components: V, S, M
+  materials: a diamond worth at least 1,000 gp, which the spell consumes
+  duration: Inst.
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Reverse Gravity:
+  level: 7
+  ritual: false
+  school: Transmutation
+  casting_time: 1 action
+  range: 100 ft
+  components: V, S, M
+  materials: a lodestone and iron filings
+  duration: 'C: 1 min max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Revivify:
+  level: 3
+  ritual: false
+  school: Conjuration
+  casting_time: 1 action
+  range: Touch
+  components: V, S, M
+  materials: diamonds worth 300 gp, which the spell consumes
+  duration: Inst.
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Rope Trick:
+  level: 2
+  ritual: false
+  school: Transmutation
+  casting_time: 1 action
+  range: Touch
+  components: V, S, M
+  materials: powdered corn extract and a twisted loop of archment
+  duration: 1 hr
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Sacred Flame:
+  level: 0
+  ritual: false
+  school: Evocation
+  casting_time: 1 action
+  range: 60 ft
+  components: V, S
+  materials: ''
+  duration: Inst.
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Sanctuary:
+  level: 1
+  ritual: false
+  school: Abjuration
+  casting_time: 1 bonus action
+  range: 30 ft
+  components: V, S, M
+  materials: a small silver mirror
+  duration: 1 min
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Scorching Ray:
+  level: 2
+  ritual: false
+  school: Evocation
+  casting_time: 1 action
+  range: 120 ft
+  components: V, S
+  materials: ''
+  duration: Inst.
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Scrying:
+  level: 5
+  ritual: false
+  school: Divination
+  casting_time: 10 minutes
+  range: Self
+  components: V, S, M
+  materials: a focus worth at least 1,000 gp, such as a crystal ball, a silver mirror,
+    or a font filled with holy water
+  duration: 'C: 10 min max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Searing Smite:
+  level: 1
+  ritual: false
+  school: Evocation
+  casting_time: 1 bonus action
+  range: Self
+  components: V
+  materials: ''
+  duration: 'C: 1 min max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+See Invisibility:
+  level: 2
+  ritual: false
+  school: Divination
+  casting_time: 1 action
+  range: Self
+  components: V, S, M
+  materials: a pinch of talc and a small sprinkling of powdered silver
+  duration: 1 hr
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Seeming:
+  level: 5
+  ritual: false
+  school: Illusion
+  casting_time: 1 action
+  range: 30 ft
+  components: V, S
+  materials: ''
+  duration: 8 hrs
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Sending:
+  level: 3
+  ritual: false
+  school: Evocation
+  casting_time: 1 action
+  range: Unlimited
+  components: V, S, M
+  materials: a short piece of fine copper wire
+  duration: 1 round
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Sequester:
+  level: 7
+  ritual: false
+  school: Transmutation
+  casting_time: 1 action
+  range: Touch
+  components: V, S, M
+  materials: a powder composed of diamond, emerald, ruby, and sapphire dust worth
+    at least 5,000 gp, which the spell consumes
+  duration: Until Dispelled
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Shapechange:
+  level: 9
+  ritual: false
+  school: Transmutation
+  casting_time: 1 action
+  range: Self
+  components: V, S, M
+  materials: a jade circlet worth at least 1,500 gp, which you must place on your
+    head before you cast the spell
+  duration: 'C: 1 hr max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Shatter:
+  level: 2
+  ritual: false
+  school: Evocation
+  casting_time: 1 action
+  range: 60 ft
+  components: V, S, M
+  materials: a chip of mica
+  duration: Inst.
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Shield:
+  level: 1
+  ritual: false
+  school: Abjuration
+  casting_time: 1 reaction, which you take when you are hit by an attack or targeted
+    by the magic missile spel
+  range: Self
+  components: V, S
+  materials: ''
+  duration: 1 round
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Shield of Faith:
+  level: 1
+  ritual: false
+  school: Abjuration
+  casting_time: 1 bonus action
+  range: 60 ft
+  components: V, S
+  materials: ''
+  duration: 'C: 10 min max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Shillelagh:
+  level: 0
+  ritual: false
+  school: Transmutation
+  casting_time: 1 bonus action
+  range: Touch
+  components: V, S, M
+  materials: mistletoe, a shamrock leaf, and a club or quarterstaff
+  duration: 1 min
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Shocking Grasp:
+  level: 0
+  ritual: false
+  school: Evocation
+  casting_time: 1 action
+  range: Touch
+  components: V, S
+  materials: ''
+  duration: Inst.
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Silence:
+  level: 2
+  ritual: true
+  school: Illusion
+  casting_time: 1 action
+  range: 120 ft
+  components: V, S
+  materials: ''
+  duration: 'C: 10 min max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Silent Image:
+  level: 1
+  ritual: false
+  school: Illusion
+  casting_time: 1 action
+  range: 60 ft
+  components: V, S, M
+  materials: a bit of fleece
+  duration: 'C: 10 min max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Simulacrum:
+  level: 7
+  ritual: false
+  school: Illusion
+  casting_time: 12 hours
+  range: Touch
+  components: V, S, M
+  materials: snow or ice in quantities sufficient to made a life-size opy of the duplicated
+    creature; some hair, fingernail clippings, or other piece of that creature's body
+    placed inside the snow or ice; and powdered ruby worth 1,500 gp, sprinkled over
+    the duplicate and consumed by the spell
+  duration: Until Dispelled
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Sleep:
+  level: 1
+  ritual: false
+  school: Enchantment
+  casting_time: 1 action
+  range: 90 ft
+  components: V, S, M
+  materials: a pinch of fine sand, rose petals, or a cricket
+  duration: 1 min
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Sleet Storm:
+  level: 3
+  ritual: false
+  school: Conjuration
+  casting_time: 1 action
+  range: 150 ft
+  components: V, S, M
+  materials: a pinch of dust and a few drops of water
+  duration: 'C: 1 min max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Slow:
+  level: 3
+  ritual: false
+  school: Transmutation
+  casting_time: 1 action
+  range: 120 ft
+  components: V, S, M
+  materials: a drop of molasses
+  duration: 'C: 1 min max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Spare the Dying:
+  level: 0
+  ritual: false
+  school: Necromancy
+  casting_time: 1 action
+  range: Touch
+  components: V, S
+  materials: ''
+  duration: Inst.
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Speak with Animals:
+  level: 1
+  ritual: true
+  school: Divination
+  casting_time: 1 action
+  range: Self
+  components: V, S
+  materials: ''
+  duration: 10 min
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Speak with Dead:
+  level: 3
+  ritual: false
+  school: Necromancy
+  casting_time: 1 action
+  range: 10 ft
+  components: V, S, M
+  materials: burning incense
+  duration: 10 min
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Speak with Plants:
+  level: 3
+  ritual: false
+  school: Transmutation
+  casting_time: 1 action
+  range: Self (30-foot radius)
+  components: V, S
+  materials: ''
+  duration: 10 min
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Spider Climb:
+  level: 2
+  ritual: false
+  school: Transmutation
+  casting_time: 1 action
+  range: Touch
+  components: V, S, M
+  materials: a drop of bitumen and a spider
+  duration: 'C: 1 hr max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Spike Growth:
+  level: 2
+  ritual: false
+  school: Transmutation
+  casting_time: 1 action
+  range: 150 ft
+  components: V, S, M
+  materials: seven sharp thorns or seven small twigs, each sharpened to a point
+  duration: 'C: 10 min max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Spirit Guardians:
+  level: 3
+  ritual: false
+  school: Conjuration
+  casting_time: 1 action
+  range: Self (15-foot radius)
+  components: V, S, M
+  materials: a holy symbol
+  duration: 'C: 10 min max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Spiritual Weapon:
+  level: 2
+  ritual: false
+  school: Evocation
+  casting_time: 1 bonus action
+  range: 60 ft
+  components: V, S
+  materials: ''
+  duration: 1 min
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Staggering Smite:
+  level: 4
+  ritual: false
+  school: Evocation
+  casting_time: 1 bonus action
+  range: Self
+  components: V
+  materials: ''
+  duration: 'C: 1 min max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Stinking Cloud:
+  level: 3
+  ritual: false
+  school: Conjuration
+  casting_time: 1 action
+  range: 90 ft
+  components: V, S, M
+  materials: a rotten egg or several skunk cabbage leaves
+  duration: 'C: 1 min max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Stone Shape:
+  level: 4
+  ritual: false
+  school: Transmutation
+  casting_time: 1 action
+  range: Touch
+  components: V, S, M
+  materials: soft clay, which must be worked into roughly the desired shape of the
+    stone object
+  duration: Inst.
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Stoneskin:
+  level: 4
+  ritual: false
+  school: Abjuration
+  casting_time: 1 action
+  range: Touch
+  components: V, S, M
+  materials: diamond dust worth 100 gp, which the spell consumes
+  duration: 'C: 1 hr max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Storm of Vengeance:
+  level: 9
+  ritual: false
+  school: Conjuration
+  casting_time: 1 action
+  range: Sight
+  components: V, S
+  materials: ''
+  duration: 'C: 1 min max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Suggestion:
+  level: 2
+  ritual: false
+  school: Enchantment
+  casting_time: 1 action
+  range: 30 ft
+  components: V, M
+  materials: a snake's tongue and either a bit of honeycomb or a drop of sweet oil
+  duration: 'C: 8 hrs max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Sunbeam:
+  level: 6
+  ritual: false
+  school: Evocation
+  casting_time: 1 action
+  range: Self (60-foot line)
+  components: V, S, M
+  materials: a magnifying glass
+  duration: 'C: 1 min max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Sunburst:
+  level: 8
+  ritual: false
+  school: Evocation
+  casting_time: 1 action
+  range: 150 ft
+  components: V, S, M
+  materials: fire and a piece of sunstone
+  duration: Inst.
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Swift Quiver:
+  level: 5
+  ritual: false
+  school: Transmutation
+  casting_time: 1 bonus action
+  range: Touch
+  components: V, S, M
+  materials: a quiver containing at least one piece of ammunition
+  duration: 'C: 1 min max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Symbol:
+  level: 7
+  ritual: false
+  school: Abjuration
+  casting_time: 1 minute
+  range: Touch
+  components: V, S, M
+  materials: mercury, phosphorus, and powdered diamond and opal with a total value
+    of at least 1,000 gp, which the spell consumes
+  duration: Until dispelled or triggered
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Tasha's Hideous Laughter:
+  level: 1
+  ritual: false
+  school: Enchantment
+  casting_time: 1 action
+  range: 30 ft
+  components: V, S, M
+  materials: tiny tarts and a feather that is waved in the air
+  duration: 'C: 1 min max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Telekinesis:
+  level: 5
+  ritual: false
+  school: Transmutation
+  casting_time: 1 action
+  range: 60 ft
+  components: V, S
+  materials: ''
+  duration: 'C: 10 min max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Telepathy:
+  level: 8
+  ritual: false
+  school: Evocation
+  casting_time: 1 action
+  range: Unlimited
+  components: V, S, M
+  materials: a pair of linked silver rings
+  duration: 24 hrs
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Teleport:
+  level: 7
+  ritual: false
+  school: Conjuration
+  casting_time: 1 action
+  range: 10 ft
+  components: V
+  materials: ''
+  duration: Inst.
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Teleportation Circle:
+  level: 5
+  ritual: false
+  school: Conjuration
+  casting_time: 1 minute
+  range: 10 ft
+  components: V, M
+  materials: rare chalks and inks infused with precious gems with 50 gp, which the
+    spell consumes
+  duration: 1 round
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Tenser's Floating Disk:
+  level: 1
+  ritual: true
+  school: Conjuration
+  casting_time: 1 action
+  range: 30 ft
+  components: V, S, M
+  materials: a drop of mercury
+  duration: 1 hr
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Thaumaturgy:
+  level: 0
+  ritual: false
+  school: Transmutation
+  casting_time: 1 action
+  range: 30 ft
+  components: V
+  materials: ''
+  duration: Up to 1 min
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Thorn Whip:
+  level: 0
+  ritual: false
+  school: Transmutation
+  casting_time: 1 action
+  range: 30 ft
+  components: V, S, M
+  materials: the stem of a plant with thorns
+  duration: Inst.
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Thunderous Smite:
+  level: 1
+  ritual: false
+  school: Evocation
+  casting_time: 1 bonus action
+  range: Self
+  components: V
+  materials: ''
+  duration: 'C: 1 min max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Thunderwave:
+  level: 1
+  ritual: false
+  school: Evocation
+  casting_time: 1 action
+  range: Self (15-foot cube)
+  components: V, S
+  materials: ''
+  duration: Inst.
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: You create a burst of thunderous sound, which can be heard 100 feet
+    away. Each creature other than you within 5 feet of you must make a Constitution
+    saving throw. On a failed save, the creature takes 1d6 thunder damage. The spell's
+    damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and
+    17th level (4d6)
+Time Stop:
+  level: 9
+  ritual: false
+  school: Transmutation
+  casting_time: 1 action
+  range: Self
+  components: V
+  materials: ''
+  duration: Inst.
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Tongues:
+  level: 3
+  ritual: false
+  school: Divination
+  casting_time: 1 action
+  range: Touch
+  components: V, M
+  materials: a small clay model of a ziggurat
+  duration: 1 hr
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Transport Via Plants:
+  level: 6
+  ritual: false
+  school: Conjuration
+  casting_time: 1 action
+  range: 10 ft
+  components: V, S
+  materials: ''
+  duration: 1 round
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Tree Stride:
+  level: 5
+  ritual: false
+  school: Conjuration
+  casting_time: 1 action
+  range: Self
+  components: V, S
+  materials: ''
+  duration: 'C: 1 min max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+True Polymorph:
+  level: 9
+  ritual: false
+  school: Transmutation
+  casting_time: 1 action
+  range: 30 ft
+  components: V, S, M
+  materials: a drop of mercury, a dollop of gum arabic, and a wisp of smoke
+  duration: 'C: 1 hr max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+True Resurrection:
+  level: 9
+  ritual: false
+  school: Necromancy
+  casting_time: 1 hour
+  range: Touch
+  components: V, S, M
+  materials: a sprinkle of holy water and diamonds worth at least 25,000 gp, which
+    the spell consumes
+  duration: Inst.
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+True Seeing:
+  level: 6
+  ritual: false
+  school: Divination
+  casting_time: 1 action
+  range: Touch
+  components: V, S, M
+  materials: an ointment for the eyes that costs 25 gp; is made from mushroom powder,
+    saffron, and fat; and is consumed by the spell
+  duration: 1 hr
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+True Strike:
+  level: 0
+  ritual: false
+  school: Divination
+  casting_time: 1 action
+  range: 30 ft
+  components: S
+  materials: ''
+  duration: 'C: 1 round max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Tsunami:
+  level: 8
+  ritual: false
+  school: Conjuration
+  casting_time: 1 minute
+  range: Sight
+  components: V, S
+  materials: ''
+  duration: 'C: 6 rounds max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Unseen Servant:
+  level: 1
+  ritual: true
+  school: Conjuration
+  casting_time: 1 action
+  range: 60 ft
+  components: V, S, M
+  materials: a piece of string and a bit of wood
+  duration: 1 hr
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Vampiric Touch:
+  level: 3
+  ritual: false
+  school: Necromancy
+  casting_time: 1 action
+  range: Self
+  components: V, S
+  materials: ''
+  duration: 'C: 1 min max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Vicious Mockery:
+  level: 0
+  ritual: false
+  school: Enchantment
+  casting_time: 1 action
+  range: 60 ft
+  components: V
+  materials: ''
+  duration: Inst.
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Wall of Fire:
+  level: 4
+  ritual: false
+  school: Evocation
+  casting_time: 1 action
+  range: 120 ft
+  components: V, S, M
+  materials: a small piece of phosphorus
+  duration: 'C: 1 min max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Wall of Force:
+  level: 5
+  ritual: false
+  school: Evocation
+  casting_time: 1 action
+  range: 120 ft
+  components: V, S, M
+  materials: a pinch of powder made by crushing a clear gemstone
+  duration: 'C: 10 min max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Wall of Ice:
+  level: 6
+  ritual: false
+  school: Evocation
+  casting_time: 1 action
+  range: 120 ft
+  components: V, S, M
+  materials: a small piece of quartz
+  duration: 'C: 10 min max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Wall of Stone:
+  level: 5
+  ritual: false
+  school: Evocation
+  casting_time: 1 action
+  range: 120 ft
+  components: V, S, M
+  materials: a small block of granite
+  duration: 'C: 10 min max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Wall of Thorns:
+  level: 6
+  ritual: false
+  school: Conjuration
+  casting_time: 1 action
+  range: 120 ft
+  components: V, S, M
+  materials: a handful of thorns
+  duration: 'C: 10 min max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Warding Bond:
+  level: 2
+  ritual: false
+  school: Abjuration
+  casting_time: 1 action
+  range: Touch
+  components: V, S, M
+  materials: a pair of platinum rings worth at least 50 gp each, which you and the
+    target must wear for the duration
+  duration: 1 hr
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Water Breathing:
+  level: 3
+  ritual: true
+  school: Transmutation
+  casting_time: 1 action
+  range: 30 ft
+  components: V, S, M
+  materials: a short reed or piece of straw
+  duration: 24 hrs
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Water Walk:
+  level: 3
+  ritual: true
+  school: Transmutation
+  casting_time: 1 action
+  range: 30 ft
+  components: V, S, M
+  materials: a piece of cork
+  duration: 1 hr
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Web:
+  level: 2
+  ritual: false
+  school: Conjuration
+  casting_time: 1 action
+  range: 60 ft
+  components: V, S, M
+  materials: a bit of spiderweb
+  duration: 'C: 1 hr max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Weird:
+  level: 9
+  ritual: false
+  school: Illusion
+  casting_time: 1 action
+  range: 120 ft
+  components: V, S
+  materials: ''
+  duration: 'C: 1 min max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Wind Walk:
+  level: 6
+  ritual: false
+  school: Transmutation
+  casting_time: 1 minute
+  range: 30 ft
+  components: V, S, M
+  materials: fire and holy water
+  duration: 8 hrs
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Wind Wall:
+  level: 3
+  ritual: false
+  school: Evocation
+  casting_time: 1 action
+  range: 120 ft
+  components: V, S, M
+  materials: a tiny fan and a feather of exotic origin
+  duration: 'C: 1 min max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Wish:
+  level: 9
+  ritual: false
+  school: Conjuration
+  casting_time: 1 action
+  range: Self
+  components: V
+  materials: ''
+  duration: Inst.
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Witch Bolt:
+  level: 1
+  ritual: false
+  school: Evocation
+  casting_time: 1 action
+  range: 30 ft
+  components: V, S, M
+  materials: a twig from a tree that has been struck by lightning
+  duration: 'C: 1 min max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Word of Recall:
+  level: 6
+  ritual: false
+  school: Conjuration
+  casting_time: 1 action
+  range: 5 ft
+  components: V
+  materials: ''
+  duration: Inst.
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX
+Wrathful Smite:
+  level: 1
+  ritual: false
+  school: Evocation
+  casting_time: 1 bonus action
+  range: Self
+  components: V
+  materials: ''
+  duration: 'C: 1 min max'
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: true
+  ref: PHB 999
+  description: XXX
+Zone of Truth:
+  level: 2
+  ritual: false
+  school: Enchantment
+  casting_time: 1 action
+  range: 60 ft
+  components: V, S
+  materials: ''
+  duration: 10 min
+  save: ''
+  damage: ''
+  damage_type: ''
+  concentration: false
+  ref: PHB 999
+  description: XXX

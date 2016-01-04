@@ -1,0 +1,37 @@
+player: Dann Webster
+character_name: Ayonga Lionsblood
+image: /Users/dwebster/Documents/RPGs/DandD/SwordCoast/Ayonga_Lionsblood_Portrait.jpg
+title_color: DarkGreen
+header_color: Sienna
+border_color: Black
+materials_color: DarkOliveGreen
+notes_color: SeaGreen
+spell_classes:
+  Druid:
+    ability: WIS
+    save_dc: 13
+    attack_bonus: +5
+    damage_bonus: +3
+    level: 2
+    cantrips:
+      - Druidcraft
+      - Guidance
+      - Resistance
+      - Shillelagh
+    special:
+      - Invisibility
+      - Pass without Trace
+preferred:
+  - Invisibility
+  - Pass without Trace
+  - Detect Magic
+  - Longstrider
+  - Thunderwave
+  - Healing Word
+  - Barkskin
+  - Darkvision
+  - Moonbeam
+notes:
+  Invisibility: Always Prepared from Circle of Land (Grasslands), Level 3
+  Pass without Trace: Always Prepared from Circle of Land (Grasslands), Level 3
+
